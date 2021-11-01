@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQwrvVmQcZDcyexwljndpnM8sq41sS0P2ns8OgGbK5IKYC1leDqe87P3MONOTgoCLNndDs9Lp1Ih1hqQzRwkjQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\amara\\RiderProjects\\DNP\\DNP\\DNP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\amara\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\amara\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\amara\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\amara\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\amara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\amara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
